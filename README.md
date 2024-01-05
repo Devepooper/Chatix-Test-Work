@@ -7,7 +7,7 @@
 Клонируйте репозиторий проекта с помощью следующей команды, если вы используете SSH
 
 ```bash
-git clone git@github.com:
+git clone git@github.com:Devepooper/Chatix-Test-Work.git
 ```
 
 После клонирования выполните:
